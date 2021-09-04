@@ -1,0 +1,20 @@
+                <div className="col-12 col-sm-6 col-lg-3">  --- USEFUL LINKS
+                  {/* Footer Items */}
+                  <div className="footer-items">
+                    {/* Footer Title */}
+                    <h3 className="footer-title mb-2">
+                      {/* remove this */}
+                      {this.state.data.linkText_1}
+                    </h3>
+                    <ul>
+                      {this.state.footerList_1.map((item, idx) => {
+                        return (
+                          <li key={`flo_${idx}`} className="py-2">
+                            <a href="/#">{item.text}</a>
+                          </li>
+                        );
+                      })}
+                    </ul>
+                  </div>
+                </div>
+
