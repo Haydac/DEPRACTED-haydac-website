@@ -10,6 +10,7 @@ import Work from "../components/WorkSection/Work";
 import ScreenshotSection from "../components/ScreenshotSection/ScreenshotsOne";
 import ReviewSection from "../components/ReviewSection/ReviewOne";
 import PricingSection from "../components/PricingSection/PricingOne";
+import AboutSection from "../components/AboutSection/AboutUs";
 import FaqSection from "../components/FaqSection/FaqOne";
 import Download from "../components/DownloadSection/Download";
 import Subscribe from "../components/SubscribeSection/Subscribe";
@@ -28,19 +29,22 @@ class ThemeOne extends Component {
         {/*====== Scroll To Top Area End ======*/}
         <div className="main">
           {/* pass hayda logo here */}
-          <Header imageData={""} />
+          <Header imageData={"/img/logo.png"} />
           <HeroSection />
           {/* <Counter /> */}
           <FeatureSection />
           <ServiceSection />
           <DiscoverSection />
           <Work />
-          <ScreenshotSection />
-          <ReviewSection />
+          {/* <ScreenshotSection /> */}
+          {/* what customers are saying */}
+          {/* <ReviewSection /> */}
+          {/* pricing is about us */}
           {/* <PricingSection /> */}
+          <AboutSection />
           <FaqSection />
           <Team />
-          <Download />
+          {/* <Download /> */}
           <Subscribe />
           <ContactSection />
           <FooterSection />

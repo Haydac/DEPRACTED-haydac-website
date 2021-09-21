@@ -32,7 +32,7 @@ class FaqSection extends Component {
   }
   render() {
     return (
-      <section className="section faq-area style-two ptb_100">
+      <section id="faq" className="section faq-area style-two ptb_100">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-12 col-md-10 col-lg-7">
@@ -101,7 +101,7 @@ class FaqSection extends Component {
                   <div className="row justify-content-center">
                     <p className="text-body text-center pt-4 fw-5">
                       {this.state.data.faqText}{" "}
-                      <a href="/#">{this.state.data.faqTextLink}</a>
+                      <a href="#contact">{this.state.data.faqTextLink}</a>
                     </p>
                   </div>
                 </div>

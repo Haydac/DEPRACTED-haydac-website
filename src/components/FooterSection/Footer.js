@@ -45,6 +45,7 @@ class FooterSection extends Component {
           {/* Footer Top */}
           <div className="footer-top ptb_100">
             <div className="container">
+              {/* justify-content-around */}
               <div className="row justify-content-around">
                 <div className="col-12 col-sm-6 col-lg-3">
                   {/* Footer Items */}
@@ -94,7 +95,7 @@ class FooterSection extends Component {
                   <div className="footer-items">
                     {/* Footer Title */}
                     <h3 className="footer-title mb-2">
-                      {this.state.data.linkText_3}
+                      {/* {this.state.data.linkText_3} */}
                     </h3>
                     {/* Store Buttons */}
                     <div className="button-group store-buttons store-black d-flex flex-wrap">
@@ -120,7 +121,7 @@ class FooterSection extends Component {
                   <div className="copyright-area d-flex flex-wrap justify-content-center justify-content-sm-between text-center py-4">
                     {/* Copyright Left */}
                     <div className="copyright-left">
-                      Hayda © All rights reserved.
+                      Haydac © All rights reserved.
                     </div>
                     {/* Copyright Right */}
                     <div className="copyright-right">

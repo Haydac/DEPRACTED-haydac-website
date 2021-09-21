@@ -154,7 +154,7 @@ class Signup extends Component {
                 xmlnsXlink="http://www.w3.org/1999/xlink"
                 className="svg replaced-svg"
               >
-                <title>Hayda Shape</title>
+                <title>Haydac Shape</title>
                 <desc>Created with Sketch</desc>
                 <defs />
                 <g

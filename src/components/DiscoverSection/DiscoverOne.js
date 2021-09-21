@@ -2,8 +2,8 @@ import React, { Component } from "react";
 // import axios from 'axios';
 import Data from "../../json-server/db.json";
 
-const BASE_URL =
-  "https://my-json-server.typicode.com/themeland/sapp/themeOneDiscoverSection";
+// const BASE_URL =
+//   "https://my-json-server.typicode.com/themeland/sapp/themeOneDiscoverSection";
 const dataObj = Data.themeOneDiscoverSection;
 
 class DiscoverSection extends Component {
@@ -66,7 +66,7 @@ class DiscoverSection extends Component {
                     );
                   })}
                 </ul>
-                <div className="icon-box d-flex mt-3">
+                {/* <div className="icon-box d-flex mt-3">
                   {this.state.discoverIcon.map((item, idx) => {
                     return (
                       <div key={`il_${idx}`} className="service-icon pr-3">
@@ -76,7 +76,7 @@ class DiscoverSection extends Component {
                       </div>
                     );
                   })}
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

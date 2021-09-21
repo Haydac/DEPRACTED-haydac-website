@@ -1,9 +1,8 @@
 import React, { Component } from "react";
 
 const initData = {
-  heading: "This is Hayda",
-  content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit nihil tenetur minus quidem est deserunt molestias accusamus harum ullam tempore debitis et, expedita, repellat delectus aspernatur neque itaque qui quod.",
+  heading: "Bring home closer with a single download",
+  content: "Settle into your new environment easier with Haydac.",
   headingSlug: "* Available on iPhone, iPad and all Android devices",
   playImg: "/img/google-play.png",
   appleImg: "/img/app-store.png",
@@ -34,21 +33,21 @@ class HeroSection extends Component {
                 <p className="text-white my-4">{this.state.data.content}</p>
                 {/* Store Buttons */}
                 <div className="button-group store-buttons d-flex">
-                  <a href="/#">
+                  {/* <a href="/#">
                     <img src={this.state.data.playImg} alt="" />
                   </a>
                   <a href="/#">
                     <img src={this.state.data.appleImg} alt="" />
-                  </a>
+                  </a> */}
                 </div>
-                <span className="d-inline-block text-white fw-3 font-italic mt-3">
+                {/* <span className="d-inline-block text-white fw-3 font-italic mt-3">
                   {this.state.data.headingSlug}
-                </span>
+                </span> */}
               </div>
             </div>
             <div className="col-12 col-md-5 col-lg-6">
               {/* Welcome Thumb */}
-              <div className="welcome-thumb mx-auto">
+              <div className="welcome-thumb mx-auto ">
                 <img src={this.state.data.heroThumb} alt="" />
               </div>
             </div>
@@ -62,7 +61,7 @@ class HeroSection extends Component {
             xmlnsXlink="http://www.w3.org/1999/xlink"
             className="svg replaced-svg"
           >
-            <title>Hayda Shape</title>
+            <title>Haydac Shape</title>
             <desc>Created with Sketch</desc>
             <defs />
             <g

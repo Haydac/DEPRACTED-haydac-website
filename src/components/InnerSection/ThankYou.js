@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import Header from "../HeaderSection/Header";
 
 const initData = {
-  heading: "Thank you for downloading Hayda",
+  heading: "Thank you for downloading Haydac",
   content:
-    "We are continuously creating new stuff for Hayda and trying to keep it up to date with the new technologies that might appear along the development process. We appreciate each of you who downloaded or purchased our theme and we take your suggestions into consideration every time.",
+    "We are continuously creating new stuff for Haydac and trying to keep it up to date with the new technologies that might appear along the development process. We appreciate each of you who downloaded or purchased our theme and we take your suggestions into consideration every time.",
   btnText: "Go to Homepage",
 };
 

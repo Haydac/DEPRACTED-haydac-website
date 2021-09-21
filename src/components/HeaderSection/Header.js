@@ -9,7 +9,7 @@ class Header extends Component {
             <img
               className="navbar-brand-regular"
               src={this.props.imageData}
-              alt="brand-logo"
+              alt="haydac-logo"
             />
             <img
               className="navbar-brand-sticky"
@@ -39,7 +39,7 @@ class Header extends Component {
               <ul className="navbar-nav" id="navbar-nav">
                 <li className="nav-item dropdown">
                   <a className="nav-link" href="/#">
-                    Home
+                    HOME
                   </a>
                   {/* <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                         <li>
@@ -64,7 +64,7 @@ class Header extends Component {
                 </li>
                 <li className="nav-item">
                   <a className="nav-link scroll" href="#features">
-                    Features
+                    FEATURES
                   </a>
                 </li>
                 <li className="nav-item dropdown">
@@ -245,18 +245,18 @@ class Header extends Component {
                   </ul>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link scroll" href="#screenshots">
-                    Screenshots
+                  <a className="nav-link scroll" href="#about">
+                    ABOUT US
                   </a>
                 </li>
-                {/* <li className="nav-item">
-                  <a className="nav-link scroll" href="#pricing">
-                    Pricing
+                <li className="nav-item">
+                  <a className="nav-link scroll" href="#faq">
+                    FAQs
                   </a>
-                </li> */}
+                </li>
                 <li className="nav-item">
                   <a className="nav-link scroll" href="#contact">
-                    Contact
+                    CONTACT
                   </a>
                 </li>
               </ul>

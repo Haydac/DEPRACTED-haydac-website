@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 
 const initData = {
-  heading: "Hayda is available for all devices",
+  heading: "Haydac is available for all devices",
   headingText:
-    "Hayda is available for all devices, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus.",
+    "Haydac is available for all devices, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus.",
   headingTexttwo:
-    "Hayda is available for all devices, consectetur adipisicing elit. Vel neque, cumque. Temporibus eligendi veniam, necessitatibus aut id labore nisi quisquam.",
+    "Haydac is available for all devices, consectetur adipisicing elit. Vel neque, cumque. Temporibus eligendi veniam, necessitatibus aut id labore nisi quisquam.",
   headingSlug: "* Available on iPhone, iPad and all Android devices",
   playImg: "/img/google-play.png",
   appleImg: "/img/app-store.png",

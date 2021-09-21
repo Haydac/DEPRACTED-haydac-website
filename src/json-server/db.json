@@ -2,94 +2,32 @@
   "themeOneFeatureSection": {
     "preHeading": "Premium",
     "preHeadingspan": "Features",
-    "heading": "Why Small Business Owner's love Hayda",
-    "headingTwo": "Explore Premium Features",
-    "headingThree": "Why Small Business Owner's Love Hayda",
-    "headingFour": "Why choose Hayda?",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-    "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+    "heading": "Settling into a foreign country has never been eaiser",
+    "headingText": "Easy access to your national products and services.",
     "featureThumb": "/img/features_thumb.png",
     "featureData": [
       {
         "id": 1,
         "image": "/img/featured_image_1.png",
-        "title": "Fully functional",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+        "title": "Grocery stores",
+        "text": "Choose from numerous culturally diverse stores to shop from on Haydac."
       },
       {
         "id": 2,
         "image": "/img/featured_image_2.png",
-        "title": "Live Chat",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+        "title": "Restaurants",
+        "text": "No need to miss local cuisines from your home country. Find them in one of the intercontinental restaurants on Haydac."
       },
       {
         "id": 3,
         "image": "/img/featured_image_3.png",
-        "title": "Secure Data",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      }
-    ],
-    "featureData_1": [
-      {
-        "id": 1,
-        "image": "/img/featured_image_4.png",
-        "title": "Easy to Customize",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      },
-      {
-        "id": 2,
-        "image": "/img/featured_image_5.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      },
-      {
-        "id": 3,
-        "image": "/img/featured_image_6.png",
-        "title": "Help Documentation",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      }
-    ],
-    "featureDataTwo": [
-      {
-        "id": 1,
-        "iconClass": "flaticon-tap",
-        "title": "Fully functional",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      },
-      {
-        "id": 2,
-        "iconClass": "flaticon-fingerprint",
-        "title": "Fingerprint Data",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      },
-      {
-        "id": 3,
-        "iconClass": "flaticon-notification",
-        "title": "Tap Notification",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      },
-      {
-        "id": 4,
-        "iconClass": "flaticon-place",
-        "title": "Location Tracking",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      },
-      {
-        "id": 5,
-        "iconClass": "flaticon-settings",
-        "title": "Powerful Settings",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-      },
-      {
-        "id": 6,
-        "iconClass": "flaticon-language",
-        "title": "Multiple Language",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+        "title": "Businesses",
+        "text": "Find local businesses waiting to offer you unique services on Haydac."
       }
     ]
   },
   "themeOneServiceSection": {
-    "heading": "Make your Device Manage Everything For you",
+    "heading": "Let haydac Find Everything You Need",
     "headingTwo": "Share your photos with friends easily",
     "headingThree": "Smart and secure mobile banking",
     "headingFour": "More productivity with less effort",
@@ -106,53 +44,43 @@
     "serviceData": [
       {
         "id": 1,
-        "iconClass": "fab fa-buffer",
-        "text": "Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+        "iconClass": "fas fa-map-marker-alt",
+        "text": "Haydac uses your location to show you local businesses that are closest to you and how to get there."
       },
       {
         "id": 2,
-        "iconClass": "fas fa-brush",
-        "text": "Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+        "iconClass": "far fa-heart",
+        "text": "Save and sort businesses according to your preference with Haydac."
       },
       {
         "id": 3,
-        "iconClass": "fas fa-burn",
-        "text": "Drop ipsum dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
-      },
-      {
-        "id": 4,
-        "iconClass": "fas fa-cart-arrow-down",
-        "text": "Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+        "iconClass": "fas fa-star",
+        "text": "We show you ratings of businesses so you do not have to try it before you know how good it is."
       }
     ]
   },
   "themeOneDiscoverSection": {
-    "heading": "Easily communicate with clients using Hayda.",
+    "heading": "Easily communicate with businesses with Haydac.",
     "headingTwo": "Work faster with powerful tools.",
     "headingThree": "More productivity with less effort",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+    "headingText": "We have setup our user interface in a way that makes it super easy to communicate with our listed businesses. All contact details are provided on their pages.",
     "thumbOne": "/img/discover_thumb.png",
     "thumbTwo": "/img/discover_thumb_3.png",
     "discoverData": [
       {
         "id": 1,
         "iconClass": "fas fa-check",
-        "text": "Combined with a handful of model sentence structures looks reasonable."
+        "text": "Address has been provided to show you their exact location and a button to navigate you on how to get there."
       },
       {
         "id": 2,
         "iconClass": "fas fa-check",
-        "text": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+        "text": "Feel free to call them to find out if a product is available or ask other related questions you might have."
       },
       {
         "id": 3,
         "iconClass": "fas fa-check",
-        "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium."
-      },
-      {
-        "id": 4,
-        "iconClass": "fas fa-check",
-        "text": "All the Lorem Ipsum generators on the Internet tend to repeat necessary."
+        "text": "To learn more about the local business, you can easily visit them on their website."
       }
     ],
     "discoverIcon": [
@@ -171,34 +99,40 @@
     ]
   },
   "themeOneWorkSection": {
-    "heading": "How Hayda works?",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "heading": "How Haydac works?",
+    "headingText": "Setup in three easy steps.",
     "workData": [
       {
         "id": 1,
         "image": "/img/work_thumb_1.png",
         "title": "Install the App",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+        "content": "Our mobile application will be available on apple store and google play store on January 10 2022"
       },
       {
         "id": 2,
         "image": "/img/work_thumb_2.png",
         "title": "Setup your profile",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+        "content": "Add the necessary information to get you up and running."
       },
       {
         "id": 3,
         "image": "/img/work_thumb_3.png",
         "title": "Enjoy the features!",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+        "content": ""
       }
     ]
+  },
+  "themeOneAboutUs": {
+    "heading": "What is Haydac?",
+    "headingText": "Haydac provides you with information on the many local businesses in your area as well as step-by-step directions on how to get there.",
+    "studentImage": "/img/student.png",
+    "story": "Meet Fikayo, Fikayo is an international student from Nigeria that arrived in Canada in the winter semester to resume studying in 8 days time. Fikayo is tired of eating poutine and mashed potatoes and misses the local cuisines he usually enjoyed back home, Fikayo has no Nigerian friends and can't find Nigerian stores or restaurants in his area. And yes, Fikayo has tried searching on Uber Eats and Google but the apps only lead him to generic African stores that do not have Nigerian made products. Fikayo is hungry and home sick! What should Fikayo do?"
   },
   "themeOnePricingSection": {
     "iconClass": "far fa-lightbulb text-primary mr-1",
     "preHeading": "Flexible",
     "preHeadingspan": "Pricing",
-    "heading": "Unlock Full Power Of Hayda",
+    "heading": "Unlock Full Power Of Haydac",
     "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
     "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
     "text": "Not sure what to choose?",
@@ -233,48 +167,44 @@
   "themeOneFaqSection": {
     "heading": "Frequently asked questions",
     "headingTwo": "Have questions? Look here",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-    "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-    "faqText": "Haven't find suitable answer?",
+    "headingText": "",
+    "headingTexttwo": "",
+    "faqText": "Can't find a suitable answer?",
     "faqTextLink": "Tell us what you need.",
     "faqData": [
       {
         "id": 1,
-        "title": "How to install Hayda?",
-        "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
+        "title": "How to install Haydac?",
+        "content": "Simply search up Haydac on Apple Store or Google Play Store and tap on Download."
       },
+
       {
         "id": 2,
-        "title": "Can I get support from the Author?",
-        "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+        "title": "Do you have a free trail?",
+        "content": "Using Haydac is completely free. Patronizing the local businesses on Haydac may not be free but at least finding them is."
       },
       {
         "id": 3,
-        "title": "Do you have a free trail?",
-        "content": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        "title": "Can i get support from Customer Service?",
+        "content": "Yes you definitely can. Send us an email or give us a call using the contact details provided and we will answer all your questions."
       }
     ],
     "faqDataTwo": [
       {
         "id": 1,
         "title": "How can I edit my personal information?",
-        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+        "content": "Click on your profile on the home page and tap on 'Edit Information', fill in the necessary fields and click save."
       },
       {
         "id": 2,
-        "title": "Contact form isn't working?",
-        "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
-      },
-      {
-        "id": 3,
-        "title": "Contact form isn't working?",
-        "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
+        "title": "Inaccurate Business information or App Malfunction?",
+        "content": "If you find that the information on any page is wrong or the app is not working as expected? Fill out Haydac's contact form and we will push a fix accordingly"
       }
     ],
     "faqDataThree": [
       {
         "id": 1,
-        "title": "How to install Hayda?",
+        "title": "How to install Haydac?",
         "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
       },
       {
@@ -301,32 +231,26 @@
   },
   "themeOneTeamSection": {
     "heading": "Our Team Experts",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-    "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+    "headingText": "Three college undergrads that decided to build something cool.",
+    "headingTexttwo": "",
     "teamData": [
       {
         "id": 1,
         "image": "/img/avatar-1.png",
-        "title": "Junaid Hasan",
-        "teamPost": "Founder & CEO"
+        "title": "Anjola Adeyemi",
+        "teamPost": "Founder & Lead Developer"
       },
       {
         "id": 2,
         "image": "/img/avatar-2.png",
-        "title": "Jassica William",
-        "teamPost": "Co-Founder"
+        "title": "Afolarin Oyerinde",
+        "teamPost": "Co-Founder, Marketing"
       },
       {
         "id": 3,
         "image": "/img/avatar-3.png",
-        "title": "Md. Arham",
-        "teamPost": "Web Designer"
-      },
-      {
-        "id": 4,
-        "image": "/img/avatar-4.png",
-        "title": "Yasmin Akter",
-        "teamPost": "Graphic Designer"
+        "title": "Peter Ayade",
+        "teamPost": "Co-Founder"
       }
     ],
     "teamIcons": [
@@ -350,9 +274,9 @@
   },
   "themeOneContactSection": {
     "heading": "Stay Tuned",
-    "headingText": "Our Mobile Application will be live on January 10 2022.",
-    "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+    "headingText": "Our Mobile Application will be live on January 10 2022!",
+    "headingTexttwo": "",
+    "content": "Have any questions? You can reach us on our social media accounts or simple send us an email!",
     "iconList": [
       {
         "id": 1,
@@ -367,7 +291,7 @@
       {
         "id": 3,
         "iconClass": "fas fa-envelope",
-        "text": "support@hayda.com"
+        "text": "support@haydac.com"
       }
     ]
   },
@@ -497,7 +421,7 @@
         "image": "/img/blog-3.jpg",
         "author": "John Doe",
         "date": "Mar 05, 2019",
-        "title": "Make your successful business with Hayda",
+        "title": "Make your successful business with haydac",
         "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.",
         "btnText": "Read More"
       },
@@ -551,7 +475,7 @@
         "image": "/img/blog-9.jpg",
         "author": "Anna Sword",
         "date": "Feb 05, 2020",
-        "title": "Make your successful business with Hayda",
+        "title": "Make your successful business with haydac",
         "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly.",
         "btnText": "Read More"
       }
@@ -598,7 +522,7 @@
         "id": 1,
         "image": "/img/avatar-1.png",
         "date": "05 Feb, 2018",
-        "title": "Promote Your Apps With Hayda"
+        "title": "Promote Your Apps With haydac"
       },
       {
         "id": 2,
@@ -622,7 +546,7 @@
     "widgetData_3": [
       {
         "id": 1,
-        "text": "Hayda"
+        "text": "haydac"
       },
       {
         "id": 2,
@@ -671,7 +595,7 @@
     ]
   },
   "themeOneBlogDetails": {
-    "title": "How to grow up your business with Hayda",
+    "title": "How to grow up your business with haydac",
     "image": "/img/blog-2.jpg",
     "author": "Anna Swford",
     "date": "05 Feb, 2020",

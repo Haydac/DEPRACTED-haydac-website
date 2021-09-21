@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 const initData = {
-  heading: "Why Small Business Owner's Loves Hayda",
+  heading: "Why Small Business Owner's Loves Haydac",
   headingText:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
   headingTexttwo:

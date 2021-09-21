@@ -3,11 +3,6 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 // importing all the themes
 import ThemeOne from "../themes/theme-one";
-import ThemeTwo from "../themes/theme-two";
-import ThemeThree from '../themes/theme-three';
-import ThemeFour from "../themes/theme-four";
-import ThemeFive from "../themes/theme-five";
-import ThemeSix from "../themes/theme-six";
 import BlogTwoColumn from "../components/Blogs/BlogTwoColumn";
 import BlogThreeColumn from "../components/Blogs/BlogThreeColumn";
 import BlogLeftSidebar from "../components/Blogs/BlogLeftSidebar";
@@ -34,17 +29,18 @@ class MyRouts extends React.Component {
         <Router>
           <Switch>
             <Route exact path="/" component={ThemeOne} />
-            <Route path="/theme-two" component={ThemeTwo} />
-            <Route path="/theme-three" component={ThemeThree} />
-            <Route path="/theme-four" component={ThemeFour} />
-            <Route path="/theme-five" component={ThemeFive} />
-            <Route path="/theme-six" component={ThemeSix} />
             <Route path="/blog-two-column" component={BlogTwoColumn} />
             <Route path="/blog-three-column" component={BlogThreeColumn} />
             <Route path="/blog-left-sidebar" component={BlogLeftSidebar} />
             <Route path="/blog-right-sidebar" component={BlogRightSidebar} />
-            <Route path="/blog-details-left-sidebar" component={BlogDetailsLeftSidebar} />
-            <Route path="/blog-details-right-sidebar" component={BlogDetailsRightSidebar} />
+            <Route
+              path="/blog-details-left-sidebar"
+              component={BlogDetailsLeftSidebar}
+            />
+            <Route
+              path="/blog-details-right-sidebar"
+              component={BlogDetailsRightSidebar}
+            />
             <Route path="/reviews" component={Reviews} />
             <Route path="/pricing" component={Pricing} />
             <Route path="/download-page" component={DownloadPage} />
