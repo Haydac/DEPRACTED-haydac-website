@@ -33,12 +33,12 @@ class HeroSection extends Component {
                 <p className="text-white my-4">{this.state.data.content}</p>
                 {/* Store Buttons */}
                 <div className="button-group store-buttons d-flex">
-                  {/* <a href="/#">
+                  <a href="/#">
                     <img src={this.state.data.playImg} alt="" />
                   </a>
                   <a href="/#">
                     <img src={this.state.data.appleImg} alt="" />
-                  </a> */}
+                  </a>
                 </div>
                 {/* <span className="d-inline-block text-white fw-3 font-italic mt-3">
                   {this.state.data.headingSlug}

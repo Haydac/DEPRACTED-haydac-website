@@ -2,8 +2,8 @@ import React, { Component } from "react";
 // import axios from "axios";
 import Data from "../../json-server/db.json";
 
-const BASE_URL =
-  "https://my-json-server.typicode.com/themeland/sapp/themeOneFeatureSection";
+// const BASE_URL =
+//   "https://my-json-server.typicode.com/themeland/sapp/themeOneFeatureSection";
 const dataObj = Data.themeOneFeatureSection;
 
 class FeatureSection extends Component {

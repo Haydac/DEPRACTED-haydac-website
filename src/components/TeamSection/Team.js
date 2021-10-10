@@ -1,9 +1,6 @@
 import React, { Component } from "react";
-import axios from "axios";
 import Data from "../../json-server/db.json";
 
-const BASE_URL =
-  "https://my-json-server.typicode.com/themeland/json-server/themeOneTeamSection";
 const dataObj = Data.themeOneTeamSection;
 
 class Team extends Component {
@@ -58,7 +55,7 @@ class Team extends Component {
                   {/* Single Team */}
                   <div className="single-team text-center radius-100 overflow-hidden m-2 m-lg-0">
                     {/* Team Thumb */}
-                    <div className="team-thumb radius-100 d-inline-block position-relative overflow-hidden">
+                    <div className="team-thumb radius-100 d-inline-block position-relative overflow-hidden fix-img">
                       <img src={item.image} alt="" />
                       {/* Team Overlay */}
                       <div className="team-overlay radius-100">
@@ -68,13 +65,15 @@ class Team extends Component {
                         </h5>
                         {/* Team Icons */}
                         <div className="team-icons">
-                          {this.state.teamIcons.map((item, idx) => {
-                            return (
-                              <a key={`ti_${idx}`} className="p-2" href="/#">
-                                <i className={item.iconClass} />
-                              </a>
-                            );
-                          })}
+                          <a className="p-2" href={item.twitter}>
+                            <i className="fab fa-twitter" />
+                          </a>
+                          <a className="p-2" href={item.instagram}>
+                            <i className="fab fa-instagram" />
+                          </a>
+                          <a className="p-2" href={item.linkedin}>
+                            <i className="fab fa-linkedin-in" />
+                          </a>
                         </div>
                       </div>
                     </div>

@@ -2,8 +2,8 @@
   "themeOneFeatureSection": {
     "preHeading": "Premium",
     "preHeadingspan": "Features",
-    "heading": "Settling into a foreign country has never been eaiser",
-    "headingText": "Easy access to your national products and services.",
+    "heading": "There is a little bit of home everywhere you go.",
+    "headingText": "Easy access to your local products and services.",
     "featureThumb": "/img/features_thumb.png",
     "featureData": [
       {
@@ -45,42 +45,42 @@
       {
         "id": 1,
         "iconClass": "fas fa-map-marker-alt",
-        "text": "Haydac uses your location to show you local businesses that are closest to you and how to get there."
+        "text": "Haydac uses your location to recommend local businesses that are closest to you and directs you there."
       },
       {
         "id": 2,
-        "iconClass": "far fa-heart",
-        "text": "Save and sort businesses according to your preference with Haydac."
+        "iconClass": "fas fa-bookmark",
+        "text": "Save and sort businesses to suit your preference.."
       },
       {
         "id": 3,
         "iconClass": "fas fa-star",
-        "text": "We show you ratings of businesses so you do not have to try it before you know how good it is."
+        "text": "Our users have the opportunity to leave reviews and guide other users."
       }
     ]
   },
   "themeOneDiscoverSection": {
-    "heading": "Easily communicate with businesses with Haydac.",
+    "heading": "Haydac connects you with local businesses around you.",
     "headingTwo": "Work faster with powerful tools.",
     "headingThree": "More productivity with less effort",
-    "headingText": "We have setup our user interface in a way that makes it super easy to communicate with our listed businesses. All contact details are provided on their pages.",
+    "headingText": "",
     "thumbOne": "/img/discover_thumb.png",
     "thumbTwo": "/img/discover_thumb_3.png",
     "discoverData": [
       {
         "id": 1,
         "iconClass": "fas fa-check",
-        "text": "Address has been provided to show you their exact location and a button to navigate you on how to get there."
+        "text": "Businesses can upload their services on Haydac to increase their outreach."
       },
       {
         "id": 2,
         "iconClass": "fas fa-check",
-        "text": "Feel free to call them to find out if a product is available or ask other related questions you might have."
+        "text": "Addresses have been provided to show you their exact location, and a button to navigate you on how to get there."
       },
       {
         "id": 3,
         "iconClass": "fas fa-check",
-        "text": "To learn more about the local business, you can easily visit them on their website."
+        "text": "Contact details are provided so you can enquire about their product and services available."
       }
     ],
     "discoverIcon": [
@@ -99,7 +99,7 @@
     ]
   },
   "themeOneWorkSection": {
-    "heading": "How Haydac works?",
+    "heading": "How Haydac works",
     "headingText": "Setup in three easy steps.",
     "workData": [
       {
@@ -126,7 +126,7 @@
     "heading": "What is Haydac?",
     "headingText": "Haydac provides you with information on the many local businesses in your area as well as step-by-step directions on how to get there.",
     "studentImage": "/img/student.png",
-    "story": "Meet Fikayo, Fikayo is an international student from Nigeria that arrived in Canada in the winter semester to resume studying in 8 days time. Fikayo is tired of eating poutine and mashed potatoes and misses the local cuisines he usually enjoyed back home, Fikayo has no Nigerian friends and can't find Nigerian stores or restaurants in his area. And yes, Fikayo has tried searching on Uber Eats and Google but the apps only lead him to generic African stores that do not have Nigerian made products. Fikayo is hungry and home sick! What should Fikayo do?"
+    "story": "Meet Fikayo, Fikayo is an international student from Nigeria that arrived in Canada in the winter semester to resume studying in 8 days time. Fikayo is tired of eating burger and fries and misses the local cuisines he usually enjoyed back home, Fikayo has no Nigerian friends and can't find Nigerian stores or restaurants in his area. And yes, Fikayo has tried searching on Uber Eats and Google but the apps only lead him to generic African stores that do not have Nigerian made products. Fikayo is hungry and home sick! What should Fikayo do? Fikayo should definitely download Haydac!"
   },
   "themeOnePricingSection": {
     "iconClass": "far fa-lightbulb text-primary mr-1",
@@ -238,33 +238,39 @@
         "id": 1,
         "image": "/img/avatar-1.png",
         "title": "Anjola Adeyemi",
-        "teamPost": "Founder & Lead Developer"
+        "teamPost": "Founder & Lead Developer",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/____anjola/",
+        "linkedin": "https://www.linkedin.com/in/muhammed-adeyemi/"
       },
       {
         "id": 2,
         "image": "/img/avatar-2.png",
         "title": "Afolarin Oyerinde",
-        "teamPost": "Co-Founder, Marketing"
+        "teamPost": "Co-Founder & Marketing",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/oyerindefola/",
+        "linkedin": "https://www.linkedin.com/in/afolarin-oyerinde-593738111/"
       },
       {
         "id": 3,
         "image": "/img/avatar-3.png",
         "title": "Peter Ayade",
-        "teamPost": "Co-Founder"
+        "teamPost": "Co-Founder",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
       }
     ],
     "teamIcons": [
-      {
-        "id": 1,
-        "iconClass": "fab fa-facebook-f"
-      },
+      {},
       {
         "id": 2,
         "iconClass": "fab fa-twitter"
       },
       {
         "id": 3,
-        "iconClass": "fab fa-google-plus-g"
+        "iconClass": "fab fa-instagram"
       },
       {
         "id": 4,
@@ -314,13 +320,13 @@
       },
       {
         "id": 3,
-        "link": "google-plus",
-        "iconClass": "fab fa-google-plus-g"
+        "link": "instagram",
+        "iconClass": "fab fa-instagram"
       },
       {
         "id": 4,
-        "link": "vine",
-        "iconClass": "fab fa-vine"
+        "link": "linked-in",
+        "iconClass": "fab fa-linkedin-in"
       }
     ],
     "footerList_1": [
