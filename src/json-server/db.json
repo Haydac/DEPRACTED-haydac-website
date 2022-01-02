@@ -231,14 +231,14 @@
   },
   "themeOneTeamSection": {
     "heading": "Our Team Experts",
-    "headingText": "Three college undergrads that decided to build something cool.",
+    "headingText": "Two college undergrads that decided to build something cool.",
     "headingTexttwo": "",
     "teamData": [
       {
         "id": 1,
         "image": "/img/avatar-1.png",
         "title": "Anjola Adeyemi",
-        "teamPost": "Founder & Lead Developer",
+        "teamPost": "Co-Founder & Developer",
         "twitter": "",
         "instagram": "https://www.instagram.com/____anjola/",
         "linkedin": "https://www.linkedin.com/in/muhammed-adeyemi/"
@@ -251,15 +251,6 @@
         "twitter": "",
         "instagram": "https://www.instagram.com/oyerindefola/",
         "linkedin": "https://www.linkedin.com/in/afolarin-oyerinde-593738111/"
-      },
-      {
-        "id": 3,
-        "image": "/img/avatar-3.png",
-        "title": "Peter Ayade",
-        "teamPost": "Co-Founder",
-        "twitter": "",
-        "instagram": "",
-        "linkedin": ""
       }
     ],
     "teamIcons": [

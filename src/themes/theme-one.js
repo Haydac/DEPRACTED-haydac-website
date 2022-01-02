@@ -43,7 +43,7 @@ class ThemeOne extends Component {
           {/* <PricingSection /> */}
           <AboutSection />
           <FaqSection />
-          <Team />
+          {/* <Team /> */}
           {/* <Download /> */}
           <Subscribe />
           <ContactSection />
