@@ -1,4 +1,6 @@
+// NAVBAR
 import React, { Component } from "react";
+import { ReactSVG } from "react-svg";
 
 class Header extends Component {
   render() {
@@ -6,16 +8,28 @@ class Header extends Component {
       <header className="navbar navbar-sticky navbar-expand-lg navbar-dark">
         <div className="container position-relative">
           <a className="navbar-brand" href="/">
-            <img
+            {/* convert to svg */}
+            <ReactSVG
+              beforeInjection={(svg) => {
+                svg.setAttribute("style", "width:80px");
+              }}
               className="navbar-brand-regular"
               src={this.props.imageData}
               alt="haydac-logo"
             />
-            <img
+            <ReactSVG
+              beforeInjection={(svg) => {
+                svg.setAttribute("style", "width:80px");
+              }}
+              className="navbar-brand-sticky"
+              src={"/img/logo-sticky.svg"}
+              alt="sticky brand-logo"
+            />
+            {/* <img
               className="navbar-brand-sticky"
               src="/img/logo.png"
               alt="sticky brand-logo"
-            />
+            /> */}
           </a>
           <button
             className="navbar-toggler d-lg-none"

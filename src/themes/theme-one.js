@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 import Header from "../components/HeaderSection/Header";
-import HeroSection from "../components/HeroSection/HeroOne";
+import HeroSection from "../components/HomeSection/Home";
 import Counter from "../components/CounterSection/Counter";
 import FeatureSection from "../components/Features/FeatureOne";
 import ServiceSection from "../components/ServiceSection/ServiceOne";
@@ -29,7 +29,7 @@ class ThemeOne extends Component {
         {/*====== Scroll To Top Area End ======*/}
         <div className="main">
           {/* pass hayda logo here */}
-          <Header imageData={"/img/logo.png"} />
+          <Header imageData={"/img/logo.svg"} />
           <HeroSection />
           {/* <Counter /> */}
           <FeatureSection />

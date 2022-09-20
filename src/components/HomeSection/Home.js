@@ -1,3 +1,4 @@
+// HOME SCREEN
 import React, { Component } from "react";
 
 const initData = {
@@ -25,7 +26,10 @@ class HeroSection extends Component {
         className="section welcome-area bg-overlay overflow-hidden d-flex align-items-center"
       >
         <div className="container">
-          <div className="row align-items-center">
+          <div
+            className="row align-items-center"
+            style={{ marginTop: "-13.75rem" }}
+          >
             {/* Welcome Intro Start */}
             <div className="col-12 col-md-7 col-lg-6">
               <div className="welcome-intro">
