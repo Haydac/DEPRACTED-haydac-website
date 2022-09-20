@@ -6,5 +6,7 @@ TO RUN THE PROJECT
 
 TO DEPLOY
 
+- npm run build
 - netlify build
+- netlify deploy
 - netlify deploy --prod
