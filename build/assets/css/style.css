@@ -102,7 +102,7 @@ h6 {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 600;
   line-height: 1.2;
 }
@@ -790,7 +790,7 @@ img {
 
 .navbar-nav {
   font-family: "Poppins", sans-serif;
-  font-size: 19px;
+  font-size: 17px;
   line-height: 24px;
   font-weight: 400;
   color: #565656;
@@ -822,6 +822,7 @@ img {
   top: 0;
   background: #fff;
   margin-top: -100px;
+  height: 95px;
 }
 
 [data-theme="dark"] .navbar-sticky-moved-up {
