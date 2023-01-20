@@ -35,7 +35,7 @@ class ThemeOne extends Component {
           <FeatureSection />
           <ServiceSection />
           <DiscoverSection />
-          <Work />
+          {/* <Work /> */}
           {/* <ScreenshotSection /> */}
           {/* what customers are saying */}
           {/* <ReviewSection /> */}

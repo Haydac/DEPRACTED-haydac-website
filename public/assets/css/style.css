@@ -282,7 +282,7 @@ img {
   content: "";
   height: 2px;
   width: 70px;
-  background-color: #7c4fe0;
+  background-color: #ffffff;
   bottom: -15px;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -1482,6 +1482,14 @@ img {
 /* ******************************
 :: 18.0 FAQ AREA CSS
 ****************************** */
+#faq {
+  background-color: rgba(143, 0, 255, 1);
+}
+
+#faq .card {
+  background-color: "red";
+}
+
 .card-header .btn {
   position: relative;
   display: block;

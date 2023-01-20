@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import axios from "axios";
 import Data from "../../json-server/db.json";
 
-const BASE_URL =
-  "https://my-json-server.typicode.com/themeland/json-server/themeOneFaqSection";
 const dataObj = Data.themeOneFaqSection;
 
 class FaqSection extends Component {
@@ -38,13 +36,9 @@ class FaqSection extends Component {
             <div className="col-12 col-md-10 col-lg-7">
               {/* Section Heading */}
               <div className="section-heading text-center">
-                <h2 className="text-capitalize">{this.state.data.heading}</h2>
-                <p className="d-none d-sm-block mt-4">
-                  {this.state.data.headingText}
-                </p>
-                <p className="d-block d-sm-none mt-4">
-                  {this.state.data.headingTexttwo}
-                </p>
+                <h2 className="text-capitalize" style={{ color: "white" }}>
+                  {this.state.data.heading}
+                </h2>
               </div>
             </div>
           </div>
@@ -59,11 +53,24 @@ class FaqSection extends Component {
                       {/* Single Card */}
                       {this.state.faqData.map((item, idx) => {
                         return (
-                          <div key={`fo_${idx}`} className="card border-0">
+                          <div
+                            key={`fo_${idx}`}
+                            className="card border-0"
+                            style={{
+                              backgroundColor: "inherit",
+                              color: "white",
+                              fontSize: "17px",
+                              fontWeight: 100,
+                            }}
+                          >
                             {/* Card Header */}
                             <div className="card-header bg-inherit border-0 p-0">
                               <h2 className="mb-0">
-                                <button className="btn px-0 py-2" type="button">
+                                <button
+                                  className="btn px-0 py-2"
+                                  type="button"
+                                  style={{ fontSize: "20px" }}
+                                >
                                   {item.title}
                                 </button>
                               </h2>
@@ -80,11 +87,24 @@ class FaqSection extends Component {
                       {/* Single Card */}
                       {this.state.faqDataTwo.map((item, idx) => {
                         return (
-                          <div key={`ft_${idx}`} className="card border-0">
+                          <div
+                            key={`ft_${idx}`}
+                            className="card border-0"
+                            style={{
+                              backgroundColor: "inherit",
+                              color: "white",
+                              fontSize: "17px",
+                              fontWeight: 100,
+                            }}
+                          >
                             {/* Card Header */}
                             <div className="card-header bg-inherit border-0 p-0">
                               <h2 className="mb-0">
-                                <button className="btn px-0 py-2" type="button">
+                                <button
+                                  className="btn px-0 py-2"
+                                  type="button"
+                                  style={{ fontSize: "20px" }}
+                                >
                                   {item.title}
                                 </button>
                               </h2>
@@ -97,12 +117,6 @@ class FaqSection extends Component {
                         );
                       })}
                     </div>
-                  </div>
-                  <div className="row justify-content-center">
-                    <p className="text-body text-center pt-4 fw-5">
-                      {this.state.data.faqText}{" "}
-                      <a href="#contact">{this.state.data.faqTextLink}</a>
-                    </p>
                   </div>
                 </div>
               </div>

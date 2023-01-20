@@ -169,8 +169,8 @@
     "headingTwo": "Have questions? Look here",
     "headingText": "",
     "headingTexttwo": "",
-    "faqText": "Can't find a suitable answer?",
-    "faqTextLink": "Tell us what you need.",
+    "faqText": "Can't find a suitable answer? Email ",
+    "faqTextLink": "support@haydac.com",
     "faqData": [
       {
         "id": 1,
