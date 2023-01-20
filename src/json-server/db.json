@@ -45,7 +45,7 @@
       {
         "id": 1,
         "iconClass": "fas fa-map-marker-alt",
-        "text": "Haydac uses your location to recommend local businesses that are closest to you and directs you there."
+        "text": "A service that utilizes your location to suggest nearby businesses and provide directions to them, including the option for delivery."
       },
       {
         "id": 2,
@@ -106,7 +106,7 @@
         "id": 1,
         "image": "/img/work_thumb_1.png",
         "title": "Install the App",
-        "content": "Our mobile application will be available on apple store and google play store on January 10 2022"
+        "content": "Open up a new source of income."
       },
       {
         "id": 2,
@@ -270,15 +270,15 @@
     ]
   },
   "themeOneContactSection": {
-    "heading": "Stay Tuned",
-    "headingText": "Our Mobile Application will be live on January 10 2022!",
+    "heading": "Are you a business Owner?",
+    "headingText": "Open up a new source of income!",
     "headingTexttwo": "",
-    "content": "Have any questions? You can reach us on our social media accounts or simple send us an email!",
+    "content": "Have any questions? You can simply send us an email on support@haydac.com",
     "iconList": [
       {
         "id": 1,
         "iconClass": "fas fa-home",
-        "text": "338b, 105 The Pond Road, North York, Toronto, Canada."
+        "text": "address goes here"
       },
       {
         "id": 2,
@@ -286,7 +286,7 @@
         "text": "+1 (905) 783-2628, +1 (647) 807-4038"
       },
       {
-        "id": 3,
+        "id": 1,
         "iconClass": "fas fa-envelope",
         "text": "support@haydac.com"
       }

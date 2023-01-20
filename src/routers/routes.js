@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 // importing all the themes
-import ThemeOne from "../themes/theme-one";
+import ThemeOne from "../themes/theme-one"; // webpage
 import BlogTwoColumn from "../components/Blogs/BlogTwoColumn";
 import BlogThreeColumn from "../components/Blogs/BlogThreeColumn";
 import BlogLeftSidebar from "../components/Blogs/BlogLeftSidebar";

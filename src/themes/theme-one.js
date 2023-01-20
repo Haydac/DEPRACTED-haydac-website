@@ -15,7 +15,7 @@ import FaqSection from "../components/FaqSection/FaqOne";
 import Download from "../components/DownloadSection/Download";
 import Subscribe from "../components/SubscribeSection/Subscribe";
 import Team from "../components/TeamSection/Team";
-import ContactSection from "../components/ContactSection/Contact";
+import ContactSection from "../components/ContactSection/Contact"; // for businesses to register
 import FooterSection from "../components/FooterSection/Footer";
 
 class ThemeOne extends Component {
@@ -41,11 +41,11 @@ class ThemeOne extends Component {
           {/* <ReviewSection /> */}
           {/* pricing is about us */}
           {/* <PricingSection /> */}
-          <AboutSection />
+          {/* <AboutSection /> */}
           <FaqSection />
           {/* <Team /> */}
           {/* <Download /> */}
-          <Subscribe />
+          {/* <Subscribe /> */}
           <ContactSection />
           <FooterSection />
         </div>

@@ -34,13 +34,13 @@ class ContactSection extends Component {
       <section id="contact" className="contact-area bg-gray ptb_100">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-12 col-md-10 col-lg-6">
+            <div className="col-12 col-md-10 col-lg-8">
               {/* Section Heading */}
               <div className="section-heading text-center">
                 <h2 className="text-capitalize">{this.state.data.heading}</h2>
-                <p className="d-none d-sm-block mt-4">
+                <h4 className="d-none d-sm-block mt-5">
                   {this.state.data.headingText}
-                </p>
+                </h4>
                 <p className="d-block d-sm-none mt-4">
                   {this.state.data.headingTexttwo}
                 </p>
@@ -52,7 +52,7 @@ class ContactSection extends Component {
               {/* Contact Us */}
               <div className="contact-us">
                 <p className="mb-3">{this.state.data.content}</p>
-                <ul>
+                {/* <ul>
                   {this.state.iconList.map((item, idx) => {
                     return (
                       <li key={`ci_${idx}`} className="py-2">
@@ -67,7 +67,7 @@ class ContactSection extends Component {
                       </li>
                     );
                   })}
-                </ul>
+                </ul> */}
               </div>
             </div>
             <div className="col-12 col-md-6 pt-4 pt-md-0">
